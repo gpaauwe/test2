@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Project>
+    <ProjectName val="TEST_up1"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{CDDA871B-FA4C-4434-B817-22C98A58A508}"/>
+  </Project>
+
+</Application>
